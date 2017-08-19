@@ -3,4 +3,8 @@ Git version test, my 1st editing.
 3rd time, add t
 4th time, remove something in 3, and add this line.
 5th time, in dev branch
+<<<<<<< HEAD
 7th changed..
+=======
+6th time, a New Branch, feature1..
+>>>>>> feature
