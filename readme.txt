@@ -8,3 +8,4 @@ Git version test, my 1st editing.
 =======
 6th time, a New Branch, feature1..
 >>>>>> feature
+8th time, edite on my Yoga260
